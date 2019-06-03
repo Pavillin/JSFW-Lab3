@@ -10,24 +10,32 @@ const persons = [
   {
     path: 'dylan',
     name: 'Dylan Sprague',
-    age: 20
+    age: 20,
+    likes: "video games, programming, and my doggo",
+    dislikes: "people who send \"Streaks\" snapchats"
   },
   {
     path: 'hannah',
     name: 'Hannah Sprague',
     age: 16,
+    likes: "doing nothing",
+    dislikes: "doing something",
     relation: 'Sister'
   },
   {
     path: 'chris',
     name: 'Chris Sprague',
     age: 52,
+    likes: "hockey and the gym",
+    dislikes: "when people steal my shaker cups at the gym",
     relation: 'Dad'
   },
   {
     path: 'karen',
     name: 'Karen Stewart',
     age: 48,
+    likes: "cleaning the house 24/7",
+    dislikes: "when there's a spec of dust anywhere in my house",
     relation: 'Mom'
   }
 ]
